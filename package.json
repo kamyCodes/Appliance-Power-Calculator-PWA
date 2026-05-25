@@ -1,0 +1,11 @@
+{
+  "name": "appliance-power-calc-pwa",
+  "version": "1.0.0",
+  "description": "Appliance Power Consumption Calculator PWA based on real-world nameplate specifications.",
+  "scripts": {
+    "dev": "npx http-server -p 8080"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

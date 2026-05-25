@@ -1,0 +1,25 @@
+{
+  "name": "Appliance Power Consumption Calculator",
+  "short_name": "Appliance Calc",
+  "description": "Premium calculator for appliance power consumption (Watts & HP) using real-world nameplate specifications.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0f1d",
+  "theme_color": "#0d6efd",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
